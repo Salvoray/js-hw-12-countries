@@ -1,2 +1,2 @@
 import './sass/main.scss';
-import './scripts/fetchCountries';
+import './scripts/renderCountriesMarkup';

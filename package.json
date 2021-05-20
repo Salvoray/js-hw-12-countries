@@ -13,15 +13,28 @@
     "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Salvoray <zzoomikk@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "devDependencies": {
+    "@pnotify/animate": "^5.2.0",
+    "@pnotify/bootstrap3": "^5.2.0",
+    "@pnotify/confirm": "^5.2.0",
+    "@pnotify/core": "^5.2.0",
+    "@pnotify/countdown": "^5.2.0",
+    "@pnotify/desktop": "^5.2.0",
+    "@pnotify/font-awesome4": "^5.2.0",
+    "@pnotify/font-awesome5": "^5.2.0",
+    "@pnotify/font-awesome5-fix": "^5.2.0",
+    "@pnotify/glyphicon": "^5.2.0",
+    "@pnotify/mobile": "^5.2.0",
+    "@pnotify/paginate": "^5.2.0",
     "parcel-bundler": "^1.12.5",
     "parcel-plugin-handlebars-precompile": "^1.0.2",
     "parcel-plugin-nuke-dist": "^1.0.1",
+    "pnotify": "^5.2.0",
     "posthtml-include": "^1.6.2",
     "sass": "^1.32.8"
   },
