@@ -3,20 +3,20 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://salvoray.github.io/js-hw-12-countries",
+  "homepage": "https://salvoray.github.io/search-countries",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /js-hw-12-countries/"
+    "build": "parcel build src/*.html --public-url /search-countries/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Salvoray/js-hw-12-countries.git"
+    "url": "git+https://github.com/Salvoray/search-countries.git"
   },
   "keywords": [],
   "author": "Salvoray <zzoomikk@gmail.com>",
-  "license": "ISC",
+  "license": "Unlicense",
   "bugs": {
-    "url": "https://github.com/Salvoray/js-hw-12-countries/issues"
+    "url": "https://github.com/Salvoray/search-countries/issues"
   },
   "devDependencies": {
     "@pnotify/animate": "^5.2.0",
