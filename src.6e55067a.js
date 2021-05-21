@@ -22,4 +22,4 @@ var t,e=arguments[3];!function(e,n){"object"==typeof exports&&"undefined"!=typeo
 },{"../api-services/fetchCountries":"Ig42","lodash.debounce":"PZFh","../templates/countries-list.hbs":"VUQC","../templates/country-card.hbs":"DRrH","@pnotify/core":"txz9","@pnotify/core/dist/PNotify.css":"clu1","@pnotify/core/dist/BrightTheme.css":"clu1"}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./scripts/renderCountriesMarkup");
 },{"./sass/main.scss":"clu1","./scripts/renderCountriesMarkup":"If1Q"}]},{},["Focm"], null)
-//# sourceMappingURL=/js-hw-12-countries/src.6e55067a.js.map
+//# sourceMappingURL=/search-countries/src.6e55067a.js.map
